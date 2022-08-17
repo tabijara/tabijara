@@ -32,6 +32,6 @@
   
   ##
   
-  
+  ![Snake animation](https://github.com/tabijara/tabijara/blob/output/github-contribution-grid-snake.svg)
   
   
