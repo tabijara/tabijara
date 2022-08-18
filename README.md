@@ -7,7 +7,7 @@
   - 💡 Projeto e confecção de circuitos impressos na plataforma Proteus
   - 🖼 Computação Visual com OpenCV
 
-- 🐍 Aprofundando estudos em Pyton
+- 🐍 Aprofundando estudos em Python
 
 <div align="center">
   <a href="https://github.com/tabijara">
